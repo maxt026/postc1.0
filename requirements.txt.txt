@@ -1,0 +1,9 @@
+The postc 1.0 application requires the following dependencies to be installed:
+
+- Python v.2.7+ 
+- tkinter (GUI for Python projects, conventionally included in Python 3+)
+- pgeocode v.0.2.1. library (can be downloaded from 	https://pypi.org/project/pgeocode/)
+- numpy and pandas packages (installed automatically with 'pip install pgeocode' command)
+
+
+Always use five-number postal code with hyphen between the second and third character. 
